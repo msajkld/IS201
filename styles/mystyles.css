@@ -1,0 +1,139 @@
+
+.christmas{
+    background-image: url(../Images/Christmas.jpg);
+}
+
+.subheader{
+    font-size: 30;
+    color: black;
+    text-align: center;
+}
+/*
+.margin{
+    float: right; 
+    margin-left: 5px;
+}
+*/
+.text {
+    text-align: justify;
+    color: brown;
+}
+
+.link {
+    color: rgb(190, 185, 184);
+}
+
+.hover:hover {
+    color:blue
+}
+.copywrite {
+    font: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+.Tabheader{
+    background-color: whitesmoke;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 80px;
+    text-align: center;
+}
+
+.TabBody{
+    top: 92px;
+    right: 5px;
+    left: 5px;
+    bottom: 62px;
+    text-align: center;
+
+}
+
+.TabFooter{
+    background-color: whitesmoke;
+    text-align: center;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    bottom: 5px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.div1{
+    padding-right: 5px;
+    padding-left: 375px;
+    padding-top: 5px;
+    Width: 750px;
+
+
+
+}
+
+.div2{
+    padding-right: 5px;
+    padding-left: 375px;
+    padding-top: 5px;
+    Width: 750px;
+}
+
+.div3{
+    padding-right: 5px;
+    padding-left: 375px;
+    padding-top: 5px;
+    Width: 750px;
+}
+
+.div4{
+    padding-right: 5px;
+    padding-left: 375px;
+    padding-top: 5px;
+    Width: 750px;
+}
+
+.TabText{
+    margin: 5px;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.TabTextTitle{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+.hrcolor{
+    background-color: black;
+    border-color: black;
+}
+
+.font{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.font2{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
